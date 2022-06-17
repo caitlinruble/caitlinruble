@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @caitlinruble
-- 👀 I’m interested in a career pivot into data science
-- 🌱 I’m currently learning python programming in preparation for a bootcamp
+- 👀 Freshly minted Data Scientist
+- 🌱 I’m currently doing a 600 hour Data Science intensive with Springboard
 - 💞️ I’m looking to collaborate on learning projects
 - 📫 How to reach me ... caitlinortega91@gmail.com
 
